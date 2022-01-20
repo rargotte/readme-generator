@@ -3,7 +3,7 @@
   # README GENERATOR
 
   ## Description
-  Creates a Readme file
+  This application creates a README.MD file automatically based on information provided by the user.
 
   ## Table of Contents
   1. [Installation](#Installation)
@@ -15,16 +15,18 @@
   7. [Licenses](#Licenses)
 
   # Installation
-  Here goes installation steps
+  Once you download the app into your computer you need to run NPM INIT from your terminal.
+  Remember this package is being ignored by the .gitignore file and are not replicated in the repository.
+  From your terminal just type "node index.js" and answer all questions.
 
   # Usage
-  Saves time by creating a Readme file automatically
+  This application saves time by creating a README file automatically.
 
   # Contributions
-  here comes guidelines
+  Just me. :)
 
   # Test
-  here comes steps for tests
+  No test info. If you need more informaiton on how to use this application, please check the video at the bottom.
 
   # Github
   https://github.com/rargotte
