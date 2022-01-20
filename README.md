@@ -1,9 +1,9 @@
 
     
-  # SDFGSDFG
+  # README-GENERATOR
 
   ## Description
-  sdfgs
+  Automatically creates a Readme File
 
   ## Table of Contents
   1. [Installation](#Installation)
@@ -14,25 +14,25 @@
   6. [Email](#Email)
   7. [Licenses](#Licenses)
 
-  ## Installation
-  sdfgsdfg
+  # Installation
+  Fork the project - npm i command from terminal - from the index file in the terminal run command node index
 
-  ## Usage
-  sdfgsdfgsdfg
+  # Usage
+  Saves time by automatically craete a Readme file
 
-  ## Contributions
-  sdfg
+  # Contributions
+  n/a
 
-  ## Test
-  sdfgsdfg
+  # Test
+  Watch the video
 
-  ## Github
-  https://github.com/sdfgdsfg
+  # Github
+  https://github.com/rargotte
 
-  ## Email
-  sdfgsdfgdsfg
+  # Email
+  rargotte@hotmail.com
 
-  ## Licenses
+  # Licenses
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
     
