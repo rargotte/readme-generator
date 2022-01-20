@@ -1,9 +1,9 @@
 
     
-  # README-GENERATOR
+  # HERE GOES THE TITLE
 
   ## Description
-  Automatically creates a Readme File
+  Creates a Readme file automatcally
 
   ## Table of Contents
   1. [Installation](#Installation)
@@ -15,16 +15,16 @@
   7. [Licenses](#Licenses)
 
   # Installation
-  Fork the project - npm i command from terminal - from the index file in the terminal run command node index
+  Here goes the steps for installing the application.
 
   # Usage
-  Saves time by automatically craete a Readme file
+  Saves time by automatically create a REadme File
 
   # Contributions
   n/a
 
   # Test
-  Watch the video
+  Here goes the steps to run the test
 
   # Github
   https://github.com/rargotte
@@ -33,6 +33,6 @@
   rargotte@hotmail.com
 
   # Licenses
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   
     
