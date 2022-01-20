@@ -117,6 +117,6 @@ inquirer
 
     ])
     .then((response) =>
-        fs.writeFile('README.md', generateMarkdown(response), (err) =>
+        fs.writeFile('README_SAMPLE.md', generateMarkdown(response), (err) =>
             err ? console.error(err) : console.log('Success!'))
     );
