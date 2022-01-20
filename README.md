@@ -1,9 +1,9 @@
 
     
-  # HERE GOES THE TITLE
+  # HERE COMES THE TITLE
 
   ## Description
-  Creates a Readme file automatcally
+  Creates a readme file
 
   ## Table of Contents
   1. [Installation](#Installation)
@@ -15,16 +15,16 @@
   7. [Licenses](#Licenses)
 
   # Installation
-  Here goes the steps for installing the application.
+  Here goes the installation steps...
 
   # Usage
-  Saves time by automatically create a REadme File
+  Saving time by creating the Readme file automatically
 
   # Contributions
   n/a
 
   # Test
-  Here goes the steps to run the test
+  Here goes the steps to run tests
 
   # Github
   https://github.com/rargotte
@@ -33,6 +33,10 @@
   rargotte@hotmail.com
 
   # Licenses
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
   
+  [![Demonstrative Video](./img/Video-Readme-Gen.mp4)]
+
+
+
     
