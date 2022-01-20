@@ -1,9 +1,9 @@
 
     
-  # HERE COMES THE TITLE
+  # README GENERATOR
 
   ## Description
-  Creates a readme file
+  Creates a Readme file
 
   ## Table of Contents
   1. [Installation](#Installation)
@@ -15,16 +15,16 @@
   7. [Licenses](#Licenses)
 
   # Installation
-  Here goes the installation steps...
+  Here goes installation steps
 
   # Usage
-  Saving time by creating the Readme file automatically
+  Saves time by creating a Readme file automatically
 
   # Contributions
-  n/a
+  here comes guidelines
 
   # Test
-  Here goes the steps to run tests
+  here comes steps for tests
 
   # Github
   https://github.com/rargotte
@@ -33,12 +33,7 @@
   rargotte@hotmail.com
 
   # Licenses
-  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   
-  ![Demonstrative Video](./img/Video-Readme-Gen.mp4)
-
+  ![Demonstrative Video]  
   https://user-images.githubusercontent.com/93161922/150272147-6f7f1d32-4fb3-46ad-beed-4b2fcc9eae2d.mp4
-
-
-
-    
